@@ -1,0 +1,3 @@
+cd			mac + pc	change directory
+ls		 	mac			list all
+dir 		pc			list all
