@@ -1,3 +1,11 @@
-cd			mac + pc	change directory
-ls		 	mac			list all
-dir 		pc			list all
+cd				mac + pc		change directory
+ls		 		mac				list all
+dir 			pc				list all
+open .			mac				open current directory in terminal
+start .			pc				open current directory in cmd
+
+
+git status		
+git pull
+git push
+git commit -m
